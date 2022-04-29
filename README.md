@@ -1,10 +1,10 @@
-# DroidEggs 
+# Zachdroid
 
 [![JIRA Issues](https://img.shields.io/badge/JIRA-Issues-blue)](https://itachi1706.atlassian.net/browse/DEGGAND) [![Android CI](https://github.com/itachi1706/DroidEggs/workflows/Android%20CI/badge.svg)](https://github.com/itachi1706/DroidEggs/actions?query=workflow%3A%22Android+CI%22) [![CodeQL](https://github.com/itachi1706/DroidEggs/workflows/CodeQL/badge.svg)](https://github.com/itachi1706/DroidEggs/actions?query=workflow%3ACodeQL)
 
 An Android Application containing all of the Easter Eggs ever found on Android
 
-This is the original official repository for the DroidEggs application
+This is the original official repository for the Zachdroid application
 
 Releases are located here:       
 https://github.com/itachi1706/DroidEggs/releases  
